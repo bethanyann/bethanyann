@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 🔭 I’m currently working on ...
   Getting better at React, and making my own little cloud photo site as practice. 
@@ -7,7 +7,7 @@
     Node.js, GraphQL, Apollo Express Server, React Query, and Redux (I will admit I don't quite like Redux yet, but I've heard it is more of an acquired taste :) ) 
 
 
-<!--[![@bethanyann's Holopin board](https://holopin.io/api/user/board?user=bethanyann)](https://holopin.io/@bethanyann)
+[![@bethanyann's Holopin board](https://holopin.io/api/user/board?user=bethanyann)](https://holopin.io/@bethanyann)
 
 **bethanyann/bethanyann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
