@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 🔭 I’m currently working on ...
-  Getting better at React, and making my own little cloud photo site as practice. 
+  Getting better at React, and making my own little cloud photo site as practice 
   
- 🌱 I’m currently learning ...
-    Node.js, GraphQL, Apollo Express Server, React Query and Jest!
+🌱 I’m currently learning ...
+    Node.js, GraphQL, Apollo Express Server, React Query and Jest
+
+👩🏽‍🏫 I am also currently working as a web development tutor & mentoring to new software techies entering the field
 
 <!--[![@bethanyann's Holopin board](https://holopin.io/api/user/board?user=bethanyann)](https://holopin.io/@bethanyann)
 
