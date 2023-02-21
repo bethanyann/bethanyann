@@ -13,7 +13,9 @@ I enjoy coding, critiquing UI designs, absorbing all of the information about te
     Node.js, GraphQL, Apollo Express Server, MongoDB, React Query and Jest
 
 📖 I'm currently reading...
+
     Modern Software Engineering - Dave Farley
+
     Engineering Management for the Rest of Us - Sarah Drasner 
 
 👩🏽‍🏫 I work as a web development tutor & mentor new software techies entering the field, and I'm really enjoying it!  I've also started leading cohort groups as they build projects, teaching them how to work as a team. 
