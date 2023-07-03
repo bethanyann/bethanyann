@@ -5,7 +5,7 @@ I'm a Software Developer & Tutor residing in the midwest.
 I enjoy coding, critiquing UI designs, absorbing all of the information about tech that I can & and teaching all I know along the way.
 
 ### Tech Stack: 
- React.js, TypeScript, JavaScript, HTML, CSS, Node, GraphQL APIs, PostgreSQL, Azure (cloud)
+ React.js, TypeScript, JavaScript, HTML, CSS, Node, GraphQL APIs, PostgreSQL, AWS
 
 
 ### What I'm up to: 
