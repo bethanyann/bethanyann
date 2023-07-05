@@ -20,7 +20,7 @@ I enjoy coding, critiquing UI designs, absorbing all of the information about te
 
 👩🏽‍🏫 I work as a web development tutor & mentor new software techies entering the field, and I'm really enjoying it. 
 
-⚡ Fun fact: ...Ann isn't my last name but no one could ever pronounce my real one so I've just stuck with using my middle name for the longest time
+<!--⚡ Fun fact: ...Ann isn't my last name but no one could ever pronounce my real one so I've just stuck with using my middle name for the longest time -->
 
 <!--[My Work Github Account](https://github.com/bethanyaj)
 
