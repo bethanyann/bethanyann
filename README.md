@@ -10,7 +10,7 @@ I enjoy coding, critiquing UI designs, absorbing all of the information about te
 
 ### What I'm up to: 
 🌱 I’m currently digging into ...
-    Node.js, GraphQL, Apollo Express Server, MongoDB, React Query and Jest! Also trying to brush up on my SQL skills, as it's been a minute...
+    Node.js, Apollo Express Server, MongoDB, React Query and Jest!
 
 📖 I'm currently reading...
 
@@ -18,7 +18,7 @@ I enjoy coding, critiquing UI designs, absorbing all of the information about te
 
     Engineering Management for the Rest of Us - Sarah Drasner 
 
-👩🏽‍🏫 I work as a web development tutor & mentor new software techies entering the field, and I'm really enjoying it. 
+👩🏽‍🏫 I work as a web development tutor & mentor new software developers trying to enter the field, and I'm really enjoying it. 
 
 
 <!-- **bethanyann/bethanyann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
