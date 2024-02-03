@@ -12,11 +12,11 @@ I enjoy coding, critiquing UI designs, absorbing all of the information about te
 🌱 I’m currently digging into ...
     Node.js, Apollo Express Server, MongoDB, React Query and Jest!
 
-📖 I'm currently reading...
+<!-- 📖 I'm currently reading...
 
     Modern Software Engineering - Dave Farley
 
-    Engineering Management for the Rest of Us - Sarah Drasner 
+    Engineering Management for the Rest of Us - Sarah Drasner  -->
 
 👩🏽‍🏫 I work as a web development tutor & mentor new software developers trying to enter the field, and I'm really enjoying it. 
 
