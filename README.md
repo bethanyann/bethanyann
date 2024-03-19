@@ -5,18 +5,16 @@ I'm a Software Developer & Tutor currently residing in the midwest.
 I enjoy coding, critiquing UI designs, absorbing all of the information about tech that I can & and teaching all I know along the way.
 
 ### Tech Stack: 
- React.js, TypeScript, JavaScript, HTML, CSS, Node, GraphQL APIs, PostgreSQL, AWS
+ React.js, TypeScript, JavaScript, HTML, CSS, Node, GraphQL APIs, PostgreSQL, AWS, C#
 
 
 ### What I'm up to: 
 🌱 I’m currently digging into ...
     Node.js, Apollo Express Server, MongoDB, React Query and Jest!
 
-<!-- 📖 I'm currently reading...
-
+ 📖 I'm currently reading...
     Modern Software Engineering - Dave Farley
-
-    Engineering Management for the Rest of Us - Sarah Drasner  -->
+    Engineering Management for the Rest of Us - Sarah Drasner  
 
 👩🏽‍🏫 I work as a web development tutor & mentor new software developers trying to enter the field, and I'm really enjoying it. 
 
