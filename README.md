@@ -11,7 +11,9 @@ I enjoy coding, critiquing UI designs, absorbing all of the information about te
 🌱 I’m currently working as a product engineer at a local tech company
 
  📖 I'm currently reading...
+ 
   - Modern Software Engineering - Dave Farley
+  
   - Engineering Management for the Rest of Us - Sarah Drasner  
 
 👩🏽‍🏫 I work as a web development tutor & mentor new software developers trying to enter the field, and I'm really enjoying it. 
